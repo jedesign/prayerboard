@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-As <persona>, I can <what?> so that <why?>
+As **persona**, I can **what?** so that **why?**.
 
 - [ ] Acceptance criteria
